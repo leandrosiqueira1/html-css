@@ -35,7 +35,7 @@
 */Criando variavel*/
 
 :root {
-	--cor0: #c5ebd6;
+	--cor0: #FFE900;
 	--cor1: #558BC2;
 	--cor2: #188646;
 	--cor3: #F66429;
@@ -68,7 +68,8 @@ main p{
 
 }
 main strong{
-	color:#FFF0D0;
+	color: #FFE900;
+	background-color: #F66429; 
 	font-weight:bold;
 	
 }
