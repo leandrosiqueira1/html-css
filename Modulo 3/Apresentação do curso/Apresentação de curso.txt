@@ -1,0 +1,2 @@
+Apresentação do conteúdo do módulo 3:
+Conteudo: githab,tabela, background-image, background-repit, background-attachment, background-norepeat, background-size, background-position-x,background-position-y, position, efeito parallax. 
