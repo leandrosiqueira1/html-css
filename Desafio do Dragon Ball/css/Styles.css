@@ -77,14 +77,14 @@ main strong{
 main a{	
 	text-decoration:none;
 	font-weight: bold;
-	color: #F26430;
-	background-color:#83e1ad;
+	color: #FFE900;
+	background-color: #F66429;
 	padding: 2px 6px;
 
 }
 main a:hover{
 	text-decoration:underline;
-	color:#F26430;
+	color:#558BC2;
 }
 
 header{
@@ -139,7 +139,7 @@ nav a{
 	transition-duration:0.5s;
 }
 nav > a:hover{
-	background-color:#F2B279;
+	background-color:#E7283A;
 	color: #233D8C;
 
 }
@@ -177,13 +177,13 @@ main h2{
 main img{
 
 	width:100%;
-
+	box-shadow: 5px 5px 5px black;
 	}
 main img.pequena {
 	max-width: 350px;
 	display: block;
 	margin: auto;
-	
+	box-shadow: 5px 5px 5px rgb(55, 54, 54);
 
 } 
 
@@ -202,7 +202,7 @@ footer{
 }
 .footer a:hover{
 	text-decoration:underline;
-	color: #83e1ad;
+	color: #838be1;
 }
 
 div.videos{
