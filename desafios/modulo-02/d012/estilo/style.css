@@ -1,12 +1,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Passion+One&display=swap');
+
+@font-face{
+	font-family:'Sriracha-Regular';
+	src: url('../fonte/Sriracha-Regular.ttf') format('truetype');
+	
+}
 
 :root{
 
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
-    --fonte3: 'Acme', sans-serif;
+    --fonte3: 'Sriracha-Regular',cursive;
    
 }
 
@@ -58,7 +63,7 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family:'Acme','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Sriracha-Regular';
 }
 
 section.normal{
